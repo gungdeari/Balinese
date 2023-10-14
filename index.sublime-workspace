@@ -1,0 +1,474 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"ma",
+				"max-height\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"r",
+				"row\tflex-direction"
+			],
+			[
+				"fl",
+				"flex-direction\tproperty"
+			],
+			[
+				"foo",
+				"food"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"co",
+				"cover\tobject-fit"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"it",
+				"align-items\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"backr",
+				"background-size\tproperty"
+			],
+			[
+				"cont",
+				"Contact"
+			],
+			[
+				"tr",
+				"transition-delay\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"bo",
+				"box-shadow\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"sli",
+				"slide_animation"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"mag",
+				"margin-left\tproperty"
+			],
+			[
+				"in",
+				"invert()\tfilter"
+			],
+			[
+				"im",
+				"img1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fi",
+				"filter\tproperty"
+			],
+			[
+				"cli",
+				"clip-path\tproperty"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"text-",
+				"text-decoration\tproperty"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"bord",
+				"border\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"inlin",
+				"inline-flex\tdisplay"
+			],
+			[
+				"tranf",
+				"transform\tproperty"
+			],
+			[
+				"border-lef",
+				"border-left-color\tproperty"
+			],
+			[
+				"border-bott",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"border",
+				"border-right-style\tproperty"
+			],
+			[
+				"border-t",
+				"border-top-color\tproperty"
+			],
+			[
+				"FL",
+				"float\tproperty"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"wo",
+				"word-spacing\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"backround",
+				"background-image\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/HTML CSS/Web Bali/index.html",
+		"/D/Web Bali/index.html",
+		"/D/web box responsive/style.css",
+		"/D/Web Bali/style.css",
+		"/D/web box responsive/box.html",
+		"/D/Starbucks/style.css",
+		"/D/Starbucks/index.html",
+		"/D/web box responsive/index.html",
+		"/D/Auto slide/style.css",
+		"/D/Auto slide/index.html",
+		"/D/Web Login Animation/style.css",
+		"/D/Web Login Animation/index.html",
+		"/D/Web Bali/Index.html",
+		"/D/Web Bali/css/style.css",
+		"/D/web/index.html",
+		"/D/wonderfull bali/css/style.css",
+		"/D/wonderfull bali/bali.html",
+		"/D/web/css/style.css",
+		"/D/web/contact.html",
+		"/D/web/service.html",
+		"/D/web/about.html",
+		"/D/gass/gass.html",
+		"/D/web fashion/fashion.html",
+		"/D/web fashion/css/style.css",
+		"/D/web/about/about.html",
+		"/D/web/about.html/about.html",
+		"/D/Web Makanan/index.html",
+		"/D/Web Makanan/style.css",
+		"/D/web2/index.html",
+		"/D/web/anjayy"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
